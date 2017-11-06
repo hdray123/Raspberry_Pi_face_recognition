@@ -4,7 +4,7 @@ import cv2
 from PIL import Image
 from aip import AipFace
 import time
-APP_ID = '10317947'
+APP_ID = '*******' 
 API_KEY = 'zlfKx7Pra5yuXyHdewy968Yq'
 SECRET_KEY = 'puYzTG5D7gN1TfNXzztdmR3H8brNcdqt'
 
